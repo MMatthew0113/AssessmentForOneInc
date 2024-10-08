@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assessment\\MyTaskForOneInc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B9EC81-F825-4AA7-928E-AFF4410EA84B}|..\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj|d:\\assessment\\mytaskforonelnc.tests\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B9EC81-F825-4AA7-928E-AFF4410EA84B}|..\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj|d:\\assessment\\mytaskforonelnc.tests\\mytaskforonelnc.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|d:\\assessment\\mytaskforoneinc\\mytaskforoneinc\\mytaskforoneinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3581A169-D3E3-46F6-8A04-9FBB5DDD2C71}|MyTaskForOneInc\\MyTaskForOneInc.csproj|solutionrelative:mytaskforoneinc\\mytaskforoneinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersControllerTests.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOnelnc.Tests\\UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MyTaskForOnelnc.Tests\\UsersControllerTests.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOnelnc.Tests\\UsersControllerTests.cs",
+              "RelativeToolTip": "..\\MyTaskForOnelnc.Tests\\UsersControllerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:38:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTaskForOnelnc.Tests",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj",
+              "ToolTip": "D:\\Assessment\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj",
+              "RelativeToolTip": "..\\MyTaskForOnelnc.Tests\\MyTaskForOnelnc.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T15:37:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\Validators\\UserValidator.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "MyTaskForOneInc\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:14:19.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyTaskForOneInc\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:12:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Program.cs",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\Program.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Program.cs",
+              "RelativeToolTip": "MyTaskForOneInc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:50:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\Data\\UserDbContext.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "MyTaskForOneInc\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:41:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyTaskForOneInc",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\MyTaskForOneInc.csproj",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\MyTaskForOneInc.csproj",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\MyTaskForOneInc.csproj",
+              "RelativeToolTip": "MyTaskForOneInc\\MyTaskForOneInc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T13:40:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyTaskForOneInc\\Models\\User.cs",
+              "ToolTip": "D:\\Assessment\\MyTaskForOneInc\\MyTaskForOneInc\\Models\\User.cs",
+              "RelativeToolTip": "MyTaskForOneInc\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:40:01.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
